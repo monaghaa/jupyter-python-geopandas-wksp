@@ -1,0 +1,14 @@
+name: jupyter-python-geopandas-wksp
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - matplotlib
+  - geopandas
+  - descartes
+  - rtree
+  - jupyterlab=3.1.1
