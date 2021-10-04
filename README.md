@@ -1,1 +1,1 @@
-# jupyter_python_geopandas_wksp
+Python environment for CRDDS Geopandas Workshop
